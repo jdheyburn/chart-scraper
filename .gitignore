@@ -1,0 +1,69 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Distribution / packaging
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+*.egg-info/
+dist/
+build/
+
+# Logs
+*.log
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Python virtual environments
+.venv/
+venv/
+ENV/
+env/
+
+# IDE and editor files
+.idea/
+.vscode/
+*.swp
+*.swo
+*.sublime-workspace
+*.sublime-project
+
+# Pytest cache
+.cache/
+.pytest_cache/
+
+# Coverage reports
+*.cover
+*.coverage
+coverage.xml
+*.lcov
+
+# Mypy
+.mypy_cache/
+
+# Pyre type checker
+.pyre/
+
+# Pylint
+pylint-report.txt
+pylint-output.txt
+
+# Other files
+*.DS_Store
+*.egg
+*.egg-info
+*.whl
+*.zip
+*.tar.gz
+*.tar.bz2
+*.tgz
+*.gz
+*.bz2
+*.xz
